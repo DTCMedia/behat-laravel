@@ -15,7 +15,7 @@
         "illuminate/support": "*",
         "alexandresalome/php-selenium": "1.0.1",
         "zizaco/testcases-laravel": "*",
-        "phpunit/phpunit": "4.0.*@dev"
+        "phpunit/phpunit": "3.*"
     },
     "autoload": {
         "classmap": [
